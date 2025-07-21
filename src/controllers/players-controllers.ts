@@ -13,7 +13,7 @@ export const getPlayer = async (req: Request, res: Response) => {
   };
 
 export const getPlayerById = async (req: Request, res: Response) => {
-  const id = parseInt(req.params.id);
+  const id = parseInt(req.params['id']);
   const httpResponse = await services.getPlayerByIdServer(id);
 
   res.status(httpResponse.statusCode).json(httpResponse.body);
@@ -33,14 +33,14 @@ export const postPlayer = async (req: Request, res: Response) => {
 };
 
 export const deletePlayer = async (req: Request, res: Response) => {
-  const id = parseInt(req.params.id);
+  const id = parseInt(req.params['id']);
   const httpResponse = await services.deletePlayerService(id);
   res.status(httpResponse.statusCode).json(httpResponse.body);
   
   };
 
 export const updatePlayer = async (req: Request, res: Response)  => {
-  const id = parseInt(req.params.id);
+  const id = parseInt(req.params['id']);
   const bodyValue: StatisticsModel = req.body;
   const httpResponse  = await services.updatePlayerService(id, bodyValue);
 

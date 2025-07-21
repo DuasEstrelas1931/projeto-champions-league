@@ -8,6 +8,7 @@ const dataBase: PlayerModel[] = [
     club: "Paris Saint-Germain",
     nationality: "Argentina",
     position: "Forward",
+    image: "https://i.pinimg.com/736x/51/b4/29/51b42969a1274896c5d1e18656ec9222.jpg",
     statistics: {
       Overall: 93,
       Pace: 85,
@@ -24,6 +25,7 @@ const dataBase: PlayerModel[] = [
     club: "Manchester United",
     nationality: "Portugal",
     position: "Forward",
+    image: "https://th.bing.com/th/id/R.54cac61c0e17a0056f67d7846b5fbea7?rik=xxEmdIflOsZ69w&pid=ImgRaw&r=0",
     statistics: {
       Overall: 92,
       Pace: 89,
@@ -40,6 +42,7 @@ const dataBase: PlayerModel[] = [
     club: "Bayern Munich",
     nationality: "Poland",
     position: "Forward",
+    image: "https://wallpaperaccess.com/full/1483515.jpg",
     statistics: {
       Overall: 91,
       Pace: 80,
@@ -56,6 +59,7 @@ const dataBase: PlayerModel[] = [
     club: "Manchester City",
     nationality: "Belgium",
     position: "Midfielder",
+    image: "https://th.bing.com/th/id/OIP.FvwRiuQCaMK_t24nbIetiAHaNK?w=184&h=328&c=7&r=0&o=7&pid=1.7&rm=3",
     statistics: {
       Overall: 91,
       Pace: 76,
@@ -72,6 +76,7 @@ const dataBase: PlayerModel[] = [
     club: "Paris Saint-Germain",
     nationality: "France",
     position: "Forward",
+    image: "https://tse2.mm.bing.net/th/id/OIP.lK0dJuSf7ZdQmIwMHIXaHwHaFL?rs=1&pid=ImgDetMain&o=7&rm=3",
     statistics: {
       Overall: 90,
       Pace: 96,
@@ -88,6 +93,7 @@ const dataBase: PlayerModel[] = [
     club: "Paris Saint-Germain",
     nationality: "Argentina",
     position: "Forward",
+    image: "https://i.pinimg.com/736x/51/b4/29/51b42969a1274896c5d1e18656ec9222.jpg",
     statistics: {
       Overall: 93,
       Pace: 85,
@@ -104,6 +110,7 @@ const dataBase: PlayerModel[] = [
     club: "Manchester United",
     nationality: "Portugal",
     position: "Forward",
+    image: "https://th.bing.com/th/id/R.54cac61c0e17a0056f67d7846b5fbea7?rik=xxEmdIflOsZ69w&pid=ImgRaw&r=0",
     statistics: {
       Overall: 92,
       Pace: 89,
@@ -120,6 +127,7 @@ const dataBase: PlayerModel[] = [
     club: "Bayern Munich",
     nationality: "Poland",
     position: "Forward",
+    image: "https://wallpaperaccess.com/full/1483515.jpg",
     statistics: {
       Overall: 91,
       Pace: 80,
@@ -136,6 +144,7 @@ const dataBase: PlayerModel[] = [
     club: "Borussia Dortmund",
     nationality: "Norway",
     position: "Forward",
+    image: "https://i.pinimg.com/736x/b3/46/4a/b3464a1a63e745d66a8c6d02ac578582.jpg",
     statistics: {
       Overall: 89,
       Pace: 88,
@@ -152,6 +161,7 @@ const dataBase: PlayerModel[] = [
     club: "Paris Saint-Germain",
     nationality: "Brazil",
     position: "Forward",
+    image: "https://tse1.mm.bing.net/th/id/OIP.j_WoHHUEO3Jj3talWEhp6QHaJQ?rs=1&pid=ImgDetMain&o=7&rm=3",
     statistics: {
       Overall: 91,
       Pace: 92,
@@ -168,6 +178,7 @@ const dataBase: PlayerModel[] = [
     club: "Liverpool",
     nationality: "Egypt",
     position: "Forward",
+    image: "https://tse2.mm.bing.net/th/id/OIP.REEn7IMaIgcng_oaKNl8LQHaHk?rs=1&pid=ImgDetMain&o=7&rm=3",
     statistics: {
       Overall: 90,
       Pace: 94,
@@ -184,6 +195,7 @@ const dataBase: PlayerModel[] = [
     club: "Liverpool",
     nationality: "Netherlands",
     position: "Defender",
+    image: "https://tse4.mm.bing.net/th/id/OIP.128jIsYyiclolexoRaOz0gHaE8?rs=1&pid=ImgDetMain&o=7&rm=3",
     statistics: {
       Overall: 89,
       Pace: 77,
@@ -200,6 +212,7 @@ const dataBase: PlayerModel[] = [
     club: "Liverpool",
     nationality: "Senegal",
     position: "Forward",
+    image: "https://vignette.wikia.nocookie.net/liverpoolfc/images/b/bc/SMane2019.jpeg/revision/latest?cb=20190807042616",
     statistics: {
       Overall: 88,
       Pace: 95,
@@ -216,6 +229,7 @@ const dataBase: PlayerModel[] = [
     club: "Liverpool",
     nationality: "England",
     position: "Defender",
+    image: "https://tse2.mm.bing.net/th/id/OIP.NIlLmiWfqX6DJzTZ9EToRAHaNK?rs=1&pid=ImgDetMain&o=7&rm=3",
     statistics: {
       Overall: 87,
       Pace: 84,
@@ -232,6 +246,7 @@ const dataBase: PlayerModel[] = [
     club: "Liverpool",
     nationality: "Brazil",
     position: "Goalkeeper",
+    image: "https://i.pinimg.com/originals/d6/11/ae/d611ae93d9fcb89ae04c05c53e913a64.jpg",
     statistics: {
       Overall: 89,
       Pace: 84,
@@ -248,6 +263,7 @@ const dataBase: PlayerModel[] = [
     club: "Barcelona",
     nationality: "Netherlands",
     position: "Midfielder",
+    image: "https://e1.pxfuel.com/desktop-wallpaper/764/255/desktop-wallpaper-frenkie-de-jong-by-nicolo69-de-jong.jpg",
     statistics: {
       Overall: 88,
       Pace: 78,
@@ -264,6 +280,7 @@ const dataBase: PlayerModel[] = [
     club: "Manchester City",
     nationality: "England",
     position: "Forward",
+    image: "https://tse4.mm.bing.net/th/id/OIP.MrMjl_fv1vnR-Nq-uVtCPQHaEo?rs=1&pid=ImgDetMain&o=7&rm=3",
     statistics: {
       Overall: 87,
       Pace: 93,
@@ -280,6 +297,7 @@ const dataBase: PlayerModel[] = [
     club: "AC Milan",
     nationality: "Sweden",
     position: "Forward",
+    image: "https://tse1.mm.bing.net/th/id/OIP.kTzBsN1-0lP79_YBPthVQAHaFU?rs=1&pid=ImgDetMain&o=7&rm=3",
     statistics: {
       Overall: 89,
       Pace: 81,
@@ -296,6 +314,7 @@ const dataBase: PlayerModel[] = [
     club: "Retired",
     nationality: "England",
     position: "Midfielder",
+    image: "https://tse1.mm.bing.net/th/id/OIP.oDZW2TIp1K1819O6a5VY2wHaJP?rs=1&pid=ImgDetMain&o=7&rm=3",
     statistics: {
       Overall: 85,
       Pace: 76,
